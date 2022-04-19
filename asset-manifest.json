@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itWorks/static/css/main.14696fe4.css",
+    "main.js": "/itWorks/static/js/main.1a5cb40e.js",
+    "static/media/AboutUs.png": "/itWorks/static/media/AboutUs.df8926769e4c1934c64d.png",
+    "static/media/Лого.png": "/itWorks/static/media/Лого.cc0a70b1050e4186ded6.png",
+    "static/media/lorry.png": "/itWorks/static/media/lorry.740188080587a92456c9.png",
+    "static/media/Icon.jpg": "/itWorks/static/media/Icon.e50bfe0505e5c92a423d.jpg",
+    "static/media/del2.gif": "/itWorks/static/media/del2.a3fc830b4430f0d296a3.gif",
+    "static/media/Slide2.jpg": "/itWorks/static/media/Slide2.db41bd1e87e5283f50c1.jpg",
+    "static/media/Slide1.jpg": "/itWorks/static/media/Slide1.73bf348a31d13779f3fc.jpg",
+    "static/media/guarantee.gif": "/itWorks/static/media/guarantee.ac68d33f787f513e1c42.gif",
+    "static/media/chatImg2.jpg": "/itWorks/static/media/chatImg2.27173c4ff88b2148089d.jpg",
+    "index.html": "/itWorks/index.html",
+    "main.14696fe4.css.map": "/itWorks/static/css/main.14696fe4.css.map",
+    "main.1a5cb40e.js.map": "/itWorks/static/js/main.1a5cb40e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14696fe4.css",
+    "static/js/main.1a5cb40e.js"
+  ]
+}
